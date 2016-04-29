@@ -1,3 +1,17 @@
 Explain what inheritance is.
+Ans) Inheritance in java is a mechanism in which one object acquires all the properties and behaviors of parent object.
+     Object-oriented programming allows classes to inherit commonly used state and behavior from other classes.
+     Inheritance in JAVA lets you create classes that are derived from other classes. It is a class that is based
+     on some other class and it inherits that class. We call the class that is inherited by others as superclass. And the
+     class that does inheriting is the subclass. A subclass automatically takes on all the behavior and attributes
+     of its base class. To create a subclass, you use the "extends" keyword on the class declaration to indicate 
+     the name of the base class. The subclass automatically inherits the class body of the base class, so any methods
+     or fields that are defined by the base class will automatically be included in the subclass. 
+
 
 Explain what polymorphism is.
+Ans) Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs 
+     when a parent class reference is used to refer to a child class object. Subclasses of a class can define their own
+     unique behaviors and yet share some of the same functionality of the parent class. Subclasses of a class can define
+     their own unique behaviors and yet share some of the same functionality of the parent class. Method Overloading 
+     and Method Overriding are some of the concepts that demonstrates different types of Polymorphism.
